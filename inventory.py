@@ -140,7 +140,7 @@ def highest_qty():
 read_shoes_data()
 #==========Main Menu=============
 # Created a menu that executes each function above
-menu = True
+
 while True:
     ask_user = int(input("""Enter any number below to do the folowing:" 
                      1  : Capture a new shoe
